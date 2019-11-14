@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Auto pray flick",
+    "id": "autoprayflick-plugin",
+    "description": "Automatical prayer flicking",
+    "provider": "Ganom",
+    "projectUrl": "https://discord.gg/nVzG25",
+    "releases": [
+      {
+        "version": "0.0.1",
+        "date": "2019-11-14",
+        "url": "https://github.com/Owain94/ExternalPlugins/blob/master/release/flexo-0.0.1.jar?raw=true",
+        "sha512sum": "176649A0EBBD343C836CBFFB31B582D0EAEE3E8678B8F47EC3E22B4E430E0B5DFAAA0C9503B587121334FBFAA3F436E2DAE827227ED267CB96A3330D10D74986"
+      }
+    ]
+  }
+]
